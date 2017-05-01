@@ -1,0 +1,23 @@
+{
+  "name": "detect-user-agent",
+  "version": "1.0.0",
+  "description": "detect user agent util",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biluo62/detect-user-agent.git"
+  },
+  "keywords": [
+    "useragent",
+    "javascript"
+  ],
+  "author": "hank.liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biluo62/detect-user-agent/issues"
+  },
+  "homepage": "https://github.com/biluo62/detect-user-agent#readme"
+}
